@@ -4,4 +4,4 @@ para que podamos guiarnos por aqui..
 
 me guie de este video: https://www.youtube.com/watch?v=pSd9w9tx5MQ&t=2s 
 
-Aunque hize una modificacion en el video 2 que guardaba temporalmente las imagenes noce para que jjaja 
+Aunque hize una modificacion en el video 2 que guardaba temporalmente las imagenes noce para que jjaja, pero si solo se guian del codigo va funcionando bien
